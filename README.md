@@ -24,6 +24,9 @@ numero = int(input('Digite um inteiro: '))
         print("Ímpar")
 ````
 
+🖖  👏
+✋  🐕 
+
 ## Gráfico de Correlação [exemplo]
 
 
